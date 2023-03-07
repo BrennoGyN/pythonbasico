@@ -28,4 +28,3 @@ def media(L):
     return(soma(L)/len(L))
 
 print(soma(L))
-print(media(L))
